@@ -1,0 +1,51 @@
+body{
+    font-family:'Calibri';
+    color:rgb(36, 36, 39);
+    background-color: rgb(244, 244, 244);
+    margin:0 7%;
+}
+
+h2{
+    color:rgb(28, 120, 162)
+}
+
+.flag{
+    display:inline;
+    width:20px;
+    height:100%;
+}
+
+a{
+    text-decoration:none;
+    font-weight: 800;
+    color:rgb(109, 109, 109);
+}
+
+.red-text{
+    color:rgb(3, 93, 135);
+}
+.term{
+    font-style:italic;
+    padding-bottom:8px;
+    padding-top:12px;
+    color:rgb(120, 120, 120);
+    font-size:0.8rem;
+}
+.definition{
+    color:rgb(145, 145, 145);
+    font-size:0.9rem;
+    padding-bottom:12px;
+
+}
+
+li{
+    padding: 16px 24px;
+}
+
+.glossary-box{
+    border: 1px solid #bcbcbc;
+    padding:4px 24px;
+    border-radius:20px;
+    background:#8b8b8b14;
+    margin-top:20px;
+}
